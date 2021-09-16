@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vasav</h1>
 <h3 align="center">Sophomore at IIT Kharagpur</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vasav-y&label=Profile%20views&color=0e75b6&style=flat" alt="vasav-y" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasav-y&label=Profile%20views&color=0e75b6&style=flat" alt="vasav-y" /> </p> -->
 
 - 🔭 I’m currently working on [Communique Website with my teammates](https://github.com/Vasav-Y/CQIITKGP.github.io)
 

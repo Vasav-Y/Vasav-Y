@@ -31,5 +31,5 @@
  &nbsp;
   &nbsp; &nbsp; &nbsp;
 </p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vasav-y&theme=dark" alt="vasav-y" /> 
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vasav-y&theme=dark" alt="vasav-y" /> 
 

@@ -35,5 +35,6 @@
 <p>
  &nbsp;
 </p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vasav-y&theme=dark" alt="vasav-y" /> 
+<img align="center" src="https://vasav02.herokuapp.com?user=vasav-y&theme=dracula" alt="vasav-y" /> 
+<!-- [![GitHub Streak](https://vasav02.herokuapp.com?user=vasav-y&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 

@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [Communique Website with my teammates](https://github.com/Vasav-Y/CQIITKGP.github.io)
 
-- 🌱 I’m currently learning **PHP and Data Structures**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 Here's my portfolio website [https://vasav-y.github.io/portfolio_website/](https://vasav-y.github.io/portfolio_website/)
 
 - 📫 How to reach me **vasav2002@gmail.com**
 
-- ⚡ Fun fact **My name's Palindrome XD**
+- ⚡ Fun fact **_My name's Palindrome XD_**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -9,7 +9,7 @@
 
 - 👨‍💻 Here's my portfolio website [https://vasav-y.github.io/portfolio_website/](https://vasav-y.github.io/portfolio_website/)
 
-- 📫 How to reach me **vasav2002@gmail.com**
+- 📫 Reach me at **vasav2002@gmail.com**
 
 - ⚡ Fun fact **_My name's Palindrome XD_**
 

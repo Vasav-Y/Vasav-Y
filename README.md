@@ -1,13 +1,8 @@
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Vasav</h1>
-<h3 align="center">Sophomore at IIT Kharagpur</h3>
+<h1 align="center">Hi! I'm Vasav</h1>
+<h3 align="center">Pre-final year at IIT Kharagpur</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasav-y&label=Profile%20views&color=0e75b6&style=flat" alt="vasav-y" /> </p> -->
 
-- 🔭 I’m currently working on [Communique Website with my teammates](https://github.com/Vasav-Y/CQIITKGP.github.io)
-
-- 🌱 I’m currently learning **Machine Learning**
-
-- 👨‍💻 Here's my portfolio website [https://vasav-y.github.io/portfolio_website/](https://vasav-y.github.io/portfolio_website/)
 
 - 📫 Reach me at **vasav2002@gmail.com**
 

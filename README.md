@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Vasav</h1>
-<h3 align="center">Pre-final year at IIT Kharagpur</h3>
+<h3 align="center">Final year at IIT Kharagpur</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasav-y&label=Profile%20views&color=0e75b6&style=flat" alt="vasav-y" /> </p> -->
 
